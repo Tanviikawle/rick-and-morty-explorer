@@ -1,0 +1,22 @@
+
+/* .accordion-button{
+    background-color: #001F3F;
+    color: white;
+} */
+
+.accordion-button:not(.collapsed)::after
+{
+    color: white;
+}
+
+.accordion {
+    border-radius: 10px;
+}
+
+.accordion-body{
+    background-color: white;
+}
+
+.form-check{
+    background-color: white;
+}

@@ -1,0 +1,16 @@
+.page-link{
+    background-color: #001F3F;
+    border-radius: 50%;
+}
+
+.prev a{
+    color:white;
+    background-color: #0d6efd;
+    text-decoration: none;
+}
+
+.next a{
+    color:white;
+    background-color: #0d6efd;
+    text-decoration: none;
+}
